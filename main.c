@@ -4,7 +4,7 @@
 int main()
 {
 int num;
-printf("Enter the number:"),
+printf("Enter the number:");
 scanf("%i",&num);
 if(num%2==0 )
 {
