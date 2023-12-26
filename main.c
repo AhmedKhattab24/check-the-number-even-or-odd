@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//this code to check the number even or odd// 
+
 int main()
 {
 int num;
